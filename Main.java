@@ -1,6 +1,3 @@
-//姓名:許瓊方
-//學號:108403036
-//系級:資管2B
 import javax.swing.*;
 import java.awt.FlowLayout;
 import java.awt.event.ActionListener;
